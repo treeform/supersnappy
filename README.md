@@ -2,11 +2,9 @@
 
 `nimble install supersnappy`
 
-![Github Actions](https://github.com//supersnappy/workflows/Github%20Actions/badge.svg)
+![Github Actions](https://github.com/guzba/supersnappy/workflows/Github%20Actions/badge.svg)
 
-[API reference](https://nimdocs.com//supersnappy)
-
-This library has no dependencies other than the Nim standard library.
+[API reference](https://guzba.github.io/supersnappy/)
 
 Supersnappy is a pure Nim implementation of [Google's Snappy](https://github.com/google/snappy) compression algorithm. The goal of this library is to be small, straightforward, dependency-free and highly performant.
 
